@@ -16,7 +16,7 @@ Tech stack: React Native, TypeScript, Node.js, Prisma, PostgreSQL, Docker.
 
 ### MtgLocker
 Full-stack platform project focused on workflow logic, structure, and technical problem-solving.  
-Tech stack: [add yours here]
+Tech stack: React Native, TypeScript, Node.js, Prisma, PostgreSQL, Docker.
 
 ### International Software Engineering Project
 Collaboration in an international team, contributing to backlog management, coordination, and development alignment.
@@ -32,5 +32,5 @@ Collaboration in an international team, contributing to backlog management, coor
 - Python
 
 ## Contact
-- LinkedIn: [your link]
-- Email: [your email]
+- LinkedIn: www.linkedin.com/in/antonio-vicente-martínez
+- Email: antoniov.mm@hotmail.es
