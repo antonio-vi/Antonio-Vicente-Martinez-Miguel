@@ -15,7 +15,7 @@ Mobile application for intelligent queue management and event flow.
 Tech stack: React Native, TypeScript, Node.js, Prisma, PostgreSQL, Docker.
 
 ### MtgLocker
-Full-stack platform project focused on workflow logic, structure, and technical problem-solving.  
+Full-stack mobile application for Magic: The Gathering players, featuring life tracking, card visualization, deck management, and social interaction.  
 Tech stack: React Native, TypeScript, Node.js, Prisma, PostgreSQL, Docker.
 
 ### International Software Engineering Project
